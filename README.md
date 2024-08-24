@@ -2,9 +2,11 @@
 
 ## 🙋‍♂️ About me
 
-I'm a huge fan of AI, CS, and writing code for fun projects 💻. 
+I'm a huge fan of AI, CS, and writing code for fun projects 💻.
 
 ## 🔭 I'm currently working on
 
-[<img src="assets/bee.jpg" alt="" height="150px">](https://github.com/sinacd)
+[<img src="assets/bee.jpg" alt="" height="150px">](https://github.com/sinacd/BeSearcher)
+
+and also learning about NLP and Transformers . 
 
